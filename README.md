@@ -16,6 +16,7 @@ Member of **USF CyberHerd** — placed **8th of 140 at CyberSeed 2026**. Current
 ### 📌 Pinned projects
 | Repo | What it is |
 |------|------------|
+| [`portfolio`](https://github.com/Jrae7/portfolio) | "JonraeOS" — an interactive, desktop-themed portfolio (Next.js on Cloudflare) showcasing my production work |
 | [`cyber-homelab`](https://github.com/Jrae7/cyber-homelab) | Sanitized architecture + build docs for my 8-VM Active Directory lab |
 | [`wazuh-detections`](https://github.com/Jrae7/wazuh-detections) | Detection rules mapped to MITRE ATT&CK, tested against attacks in my lab |
 | [`log-parser`](https://github.com/Jrae7/log-parser) | Python tool that parses Windows Event Logs / Sysmon and flags suspicious activity |
