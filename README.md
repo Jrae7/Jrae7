@@ -1,13 +1,13 @@
 # Jonrae Small
 
-Cybersecurity student at the **University of South Florida**, graduating December 2027.
+Cybersecurity student at the **University of South Florida**, graduating December 2027 with a **3.93 GPA** (Dean's List).
 Focused on **detection engineering, incident response, and identity & access security**.
 
 Member of **USF CyberHerd** — placed **8th of 140 at CyberSeed 2026**. Currently preparing for the **Circus** DFIR competition and the **CWES** certification.
 
 ### 🔭 What I'm working on
 - 🛠️ **Home lab** — 8+ VM environment on VMware/Proxmox with a Windows Server 2025 Active Directory domain, a domain-joined Windows 11 workstation, and a Wazuh SIEM. I run authorized lab exercises and build detections against them.
-- 💼 **Backend security engineering intern @ Advantive** — Python, Azure, GitHub Actions CI/CD, OAuth 2.0 with PKCE.
+- 💼 **AI & Business Systems Intern @ Advantive** — Python, Flask, Azure, GitHub Actions CI/CD, OAuth 2.0 with PKCE, Salesforce/SOQL.
 - 📚 **CWES certification** in progress; **CompTIA Security+** next.
 
 ### 🧰 Tooling I use
